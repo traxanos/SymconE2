@@ -1,0 +1,11 @@
+{
+  "id": "{D9BCE722-1592-46EA-A2D0-07D746B2BE13}",
+  "name": "E2",
+  "type": 3,
+  "vendor": "Enimga2",
+  "aliases": [ "Enigma2 PVR" ],
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "E2"
+}
