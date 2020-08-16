@@ -168,5 +168,10 @@ class E2 extends IPSModule {
     return $result;
   }
 
+  public function SendRemoteControl($command) {
+    $result = $this->request("/web/remotecontrol?command=$command");
+    return $result;
+  }
+
 }
 ?>
